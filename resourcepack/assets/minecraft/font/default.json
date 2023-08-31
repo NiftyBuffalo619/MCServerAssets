@@ -9,9 +9,9 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:fnaf/FREDBEAREMOJI.png",
-            "ascent": 11,
-            "height": 11,
+            "file": "minecraft:fnaf/settings.png",
+            "ascent": 7,
+            "height": 7,
             "chars": ["\uE002"]
         }
     ]
